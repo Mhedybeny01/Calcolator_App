@@ -23,7 +23,10 @@ h1{
     width: 70px;
     position: absolute;
     top: 530px;
-    left: 40px;
+    left: 30px;
+}
+.n1:hover{
+    background-color: grey;
 }
 
 .n-2{
@@ -42,7 +45,10 @@ h1{
     width: 70px;
     position: absolute;
     top: 530px;
-    left: 125px;
+    left: 115px;
+}
+.n2:hover{
+    background-color: grey;
 }
 
 .n-3{
@@ -61,7 +67,10 @@ h1{
     width: 70px;
     position: absolute;
     top: 530px;
-    left: 210px;
+    left: 200px;
+}
+.n3:hover{
+    background-color: grey;
 }
 
 .plus1{
@@ -80,7 +89,10 @@ h1{
     width: 70px;
     position: absolute;
     top: 530px;
-    left: 300px;
+    left: 290px;
+}
+.plus:hover{
+    background-color: rgb(255, 236, 62);
 }
 
 
@@ -103,7 +115,10 @@ h1{
     width: 70px;
     position: absolute;
     top: 450px;
-    left: 40px;
+    left: 30px;
+}
+.n4:hover{
+    background-color: grey;
 }
 
 .n-5{
@@ -122,7 +137,10 @@ h1{
     width: 70px;
     position: absolute;
     top: 450px;
-    left: 125px;
+    left: 115px;
+}
+.n5:hover{
+    background-color: grey;
 }
 
 .n-6{
@@ -141,7 +159,10 @@ h1{
     width: 70px;
     position: absolute;
     top: 450px;
-    left: 210px;
+    left: 200px;
+}
+.n6:hover{
+    background-color: grey;
 }
 
 
@@ -161,7 +182,10 @@ h1{
     width: 70px;
     position: absolute;
     top: 450px;
-    left: 300px;
+    left: 290px;
+}
+.moin:hover{
+    background-color: rgb(255, 236, 62);
 }
 
 
@@ -184,7 +208,10 @@ h1{
     width: 70px;
     position: absolute;
     top: 370px;
-    left: 40px;
+    left: 30px;
+}
+.n7:hover{
+    background-color: grey;
 }
 
 .n-8{
@@ -203,7 +230,10 @@ h1{
     width: 70px;
     position: absolute;
     top: 370px;
-    left: 125px;
+    left: 115px;
+}
+.n8:hover{
+    background-color: grey;
 }
 
 .n-9{
@@ -222,7 +252,10 @@ h1{
     width: 70px;
     position: absolute;
     top: 370px;
-    left: 210px;
+    left: 200px;
+}
+.n9:hover{
+    background-color: grey;
 }
 
 
@@ -242,7 +275,10 @@ h1{
     width: 70px;
     position: absolute;
     top: 370px;
-    left: 300px;
+    left: 290px;
+}
+.div:hover{
+    background-color:rgb(255, 236, 62);
 }
 
 
@@ -265,8 +301,12 @@ h1{
     width: 70px;
     position: absolute;
     top: 290px;
-    left: 40px;
+    left: 30px;
 }
+.n10:hover{
+    background-color:rgb(247, 244, 244);
+}
+
 
 .n-11{
     color: rgb(0, 0, 0);
@@ -284,7 +324,10 @@ h1{
     width: 70px;
     position: absolute;
     top: 290px;
-    left: 125px;
+    left: 115px;
+}
+.n11:hover{
+    background-color:rgb(247, 244, 244);
 }
 
 .n-12{
@@ -303,7 +346,10 @@ h1{
     width: 70px;
     position: absolute;
     top: 290px;
-    left: 210px;
+    left: 200px;
+}
+.n12:hover{
+    background-color:rgb(247, 244, 244);
 }
 
 
@@ -323,7 +369,10 @@ h1{
     width: 70px;
     position: absolute;
     top: 290px;
-    left: 300px;
+    left: 290px;
+}
+.n13:hover{
+    background-color:rgb(255, 236, 62);
 }
 
 
@@ -346,7 +395,10 @@ h1{
     width: 150px;
     position: absolute;
     top: 610px;
-    left: 45px;
+    left: 35px;
+}
+.n14:hover{
+    background-color: grey;
 }
 
 
@@ -367,7 +419,10 @@ h1{
     width: 70px;
     position: absolute;
     top: 610px;
-    left: 213px;
+    left: 203px;
+}
+.n15:hover{
+    background-color: grey;
 }
 
 
@@ -387,14 +442,17 @@ h1{
     width: 70px;
     position: absolute;
     top: 610px;
-    left: 300px;
+    left: 290px;
+}
+.n16:hover{
+    background-color:rgb(255, 236, 62);
 }
 
 
 .calc{
     position: absolute;
     top: 110px;
-    left: 305px;
+    left: 295px;
     font-size: 100px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 
